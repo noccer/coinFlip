@@ -1,0 +1,20 @@
+* {
+	border: 1px solid black;
+}
+
+img {
+	max-width: 200px;
+	height:auto;
+	display: block;
+	margin: 0 auto;
+}
+
+p, a {
+	font-size: 20px;
+	text-align: center;
+	display: block;
+}
+
+a {
+	text-decoration: none;
+}
